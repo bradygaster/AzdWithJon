@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzdWithJon.AppHost", "AzdWithJon.AppHost\AzdWithJon.AppHost.csproj", "{D347020F-1D04-448D-8CF7-180308371391}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzdWithJon.ServiceDefaults", "AzdWithJon.ServiceDefaults\AzdWithJon.ServiceDefaults.csproj", "{C3DFF5B5-457D-432B-9D4E-ABBC95278D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D347020F-1D04-448D-8CF7-180308371391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D347020F-1D04-448D-8CF7-180308371391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D347020F-1D04-448D-8CF7-180308371391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D347020F-1D04-448D-8CF7-180308371391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DFF5B5-457D-432B-9D4E-ABBC95278D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DFF5B5-457D-432B-9D4E-ABBC95278D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DFF5B5-457D-432B-9D4E-ABBC95278D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DFF5B5-457D-432B-9D4E-ABBC95278D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B8103E-8920-4DCB-9E3C-CFD1C7C2E9F4}
+	EndGlobalSection
+EndGlobal
